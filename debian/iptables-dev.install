@@ -1,0 +1,5 @@
+include/linux/netfilter_ipv4/ip_queue.h usr/include/linux/netfilter_ipv4/
+lib/*-*/lib*.so
+lib/pkgconfig usr/lib
+usr/include
+howtos/netfilter*html usr/share/doc/iptables-dev/html
